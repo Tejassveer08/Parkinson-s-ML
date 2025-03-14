@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 import pickle
+import sklearn
 
 # Load trained model
 with open("parkinson_model.pkl", "rb") as f:
