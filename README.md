@@ -1,0 +1,1 @@
+Parkinson's ML is a deep learning model that makes use the K nearest Neighbours algorithm to pick up a dataset with patient voice frequency values in order to predict whether the subject has parkinson's or not.
